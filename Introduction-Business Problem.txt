@@ -1,0 +1,2 @@
+This project is to see the total ecological footprint of each country. 
+Some local business newpapers/university magazine aksed me to do so. 
